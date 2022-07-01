@@ -1,7 +1,8 @@
 #include <stdio.>
 /**
-* main - prints the size of various types
-* Return: 0 if exited properly, non-zero otherwise
+* main - entry point
+*
+* Return: 0 after printing the function
 */
 
 int main(void)
