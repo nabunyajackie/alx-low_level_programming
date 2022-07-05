@@ -20,7 +20,7 @@ void jack_bauer(void)
 			{
 				for (z = '0'; z <= '9'; z++)
 				{
-					if (val <= 24)
+					if (val >= 24)
 					{
 						_putchar(n);
 						_putchar(x);
